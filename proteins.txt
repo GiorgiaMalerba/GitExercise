@@ -6,6 +6,7 @@ Hemoglobin-beta Human HBB_HUMAN P68871
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 8eb3e40 (Revert "prova")
 =======
@@ -23,3 +24,9 @@ Pfkm Mouse PFKAM_MOUSE P47857
 >>>>>>> parent of 8eb3e40 (Revert "prova")
 =======
 >>>>>>> parent of 8eb3e40 (Revert "prova")
+=======
+PFKM Human PFKAM_HUMAN P08237
+Pfkm Mouse PFKAM_MOUSE P47857
+This is clearly another mistake!
+
+>>>>>>> parent of e867bf3 (Revert "nuovo errore")
