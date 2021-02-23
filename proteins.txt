@@ -5,6 +5,9 @@ Hemoglobin-beta Human HBB_HUMAN P68871
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 8eb3e40 (Revert "prova")
 =======
 >>>>>>> parent of 8eb3e40 (Revert "prova")
 aaaa
@@ -13,7 +16,10 @@ Pfkm Mouse PFKAM_MOUSE P47857
 =======
 >>>>>>> parent of b51cbd8 (ho aggiunto aaaa)
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> parent of b51cbd8 (ho aggiunto aaaa)
+=======
+>>>>>>> parent of 8eb3e40 (Revert "prova")
 =======
 >>>>>>> parent of 8eb3e40 (Revert "prova")
